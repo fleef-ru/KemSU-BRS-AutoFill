@@ -17,7 +17,7 @@
 
 ## 🛠 Установка
 1. Установите расширение **[Tampermonkey](https://www.tampermonkey.net/)** для вашего браузера
-2. Перейдите по ссылке: [Установить скрипт](https://github.com/fleef-ru/KemSU-BRS-AutoFill/raw/refs/heads/main/%D0%9A%D0%B5%D0%BC%D0%93%D0%A3%20%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%20%D0%91%D0%A0%D0%A1.user.jss)
+2. Перейдите по ссылке: [Установить скрипт](https://github.com/fleef-ru/KemSU-BRS-AutoFill/raw/refs/heads/main/%D0%9A%D0%B5%D0%BC%D0%93%D0%A3%20%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%20%D0%91%D0%A0%D0%A1.user.js)
 3. Нажмите "Установить" в интерфейсе Tampermonkey
 
 ## 🖥 Использование
